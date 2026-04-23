@@ -1,0 +1,1 @@
+- [dev-8bdae2](dev-8bdae2.md) — Built basic prompt tester app with system prompt, chat UI, multi-provider model support, and token control
