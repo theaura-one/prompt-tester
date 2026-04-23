@@ -1,5 +1,0 @@
-flask
-openai
-anthropic
-requests
-python-dotenv
