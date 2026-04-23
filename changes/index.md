@@ -1,1 +1,2 @@
 - [dev-8bdae2](dev-8bdae2.md) — Built basic prompt tester app with system prompt, chat UI, multi-provider model support, and token control
+- [qa-16caeb](qa-16caeb.md) — QA pass: all card requirements met — models, system prompt, chat UI, and token control verified
